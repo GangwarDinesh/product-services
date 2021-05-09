@@ -1,0 +1,6 @@
+product:
+  name: TV
+  category: Electronics
+  price: 10000
+  environment:
+    type: Production

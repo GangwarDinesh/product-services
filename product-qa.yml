@@ -1,0 +1,6 @@
+product:
+  name: TV
+  category: Electronics
+  price: 1000
+  environment:
+    type: QA
